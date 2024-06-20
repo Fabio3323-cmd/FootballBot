@@ -1,7 +1,7 @@
 # Terms of Service
 _Last updated: 06/20/2024_
 
-As soon as you use Football or have invited to a server, you automatically agree to the Terms of Service of the bot.
+As soon as you use Football bot or have invited to a server, you automatically agree to the Terms of Service of the bot.
 ## 1 - What does the bot offer?
 - The bot is a Football Stats bot in english and german.
 ## 2 - What are the requirements for using the bot?
